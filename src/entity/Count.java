@@ -13,5 +13,9 @@ public class Count {
     public void add(){
      this.count++;
     }
+    public void p() {
+        System.out.println("输出方法");
+    }
+    
     
 }
