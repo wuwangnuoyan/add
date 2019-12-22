@@ -10,5 +10,8 @@ public class Count {
     public void setCount(int count) {
         this.count = count;
     }
+    public void add(){
+     this.count++;
+    }
     
 }
